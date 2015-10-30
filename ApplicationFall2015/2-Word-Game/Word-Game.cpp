@@ -39,8 +39,6 @@ int main() {
 	table.print();
 	cout << "The occurences of the word in the table are: " 
 		<< countWord(word, table) << endl;
-
-	system("pause");
 	return 0;
 
 }
